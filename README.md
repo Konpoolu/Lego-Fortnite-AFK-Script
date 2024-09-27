@@ -11,4 +11,4 @@ There are two versions of this script:
 - Slow, which moves you for 5 seconds ever 9 minutes and 59 seconds.
 - Fast, which constantly moves you, and changes directions every 1 second.
 
-Please note that this script requires a download of AutoHotKey V2, which can be found here: https://www.autohotkey.com/
+Please note that the .AHK scripts require a download of AutoHotKey V1, which can be found here: https://www.autohotkey.com/
