@@ -1,8 +1,8 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-#Persistent  ; Keeps the script running permanently
-#SingleInstance, Force  ; Ensures only one instance of the script is running
+﻿#NoEnv
+SendMode Input
+SetWorkingDir %A_ScriptDir%
+#Persistent
+#SingleInstance, Force
 
 ; Toggle variable
 toggle := false
