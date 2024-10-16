@@ -13,5 +13,5 @@ There are two versions of this script:
 - Slow, which moves you for 10 seconds every 9 minutes and 59 seconds.
 - Fast, which constantly moves you, and changes directions every 1 second.
 
-Please note that the .AHK scripts require a download of AutoHotKey V1, which can be found here: https://www.autohotkey.com/
-The .EXE versions of the files are flagged by Windows Defender. Hit "More Info" and "Run Anyway" to run the script.
+**Please note that the .AHK scripts require a download of AutoHotKey V1, which can be found here: https://www.autohotkey.com/
+The .EXE versions of the files are flagged by Windows Defender. Hit "More Info" and "Run Anyway" to run the script.**
